@@ -66,7 +66,7 @@ public class MyInformation {
 				"\nGender: " + myGender + "\nUS Citizen? " + usCitizen);
 	}
 	
-	
+	// New
 	public void allMethods() {
 		myInformation();
 		findMyName();
