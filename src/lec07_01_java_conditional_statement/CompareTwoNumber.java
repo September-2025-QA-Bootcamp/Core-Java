@@ -26,7 +26,7 @@ public class CompareTwoNumber {
 		if there are more condition, you can use more than one 'else if' condition
 		 */
 
-		int val1 = 60;
+		int val1 = 55;
 		int val2 = 50;
 
 		if (val1 > val2) {
@@ -35,7 +35,7 @@ public class CompareTwoNumber {
 			System.out.println(val1 + " is smaller than " + val2);
 		} else if (val1 == val2) {
 			System.out.println(val1 + " is equal to " + val2);
-		} else {
+		}else {
 			System.out.println("Please provide a valid number");
 		}
 
