@@ -1,4 +1,4 @@
-package lec06JavaOverview01;
+package lec06_java_overview;
 
 public class MyInformationTest {
 
