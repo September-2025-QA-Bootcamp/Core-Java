@@ -1,0 +1,8 @@
+package lec12_02_Java_abstraction;
+
+public class Mercedez {
+	public void mercedezInfo() {
+		System.out.println("Invented in Germany");
+	}
+
+}
